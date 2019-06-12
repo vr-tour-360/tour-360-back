@@ -1,4 +1,4 @@
-export default interface MediaFile {
+export interface MediaFile {
     filename: string;
     contentType: string;
 }

@@ -1,4 +1,4 @@
-export default interface ImageFile {
+export interface ImageFile {
     filename: string;
     contentType: string;
     width: number;
