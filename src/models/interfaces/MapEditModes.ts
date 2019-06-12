@@ -1,2 +1,1 @@
-type MapEditModes = 'addPlace' | 'removePlace' | 'dragMap' | 'addConnection';
-export default MapEditModes;
+export type MapEditModes = 'addPlace' | 'removePlace' | 'dragMap' | 'addConnection';

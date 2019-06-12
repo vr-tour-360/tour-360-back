@@ -1,4 +1,4 @@
-interface UserDto {
+export interface UserDto {
     readonly id: string;
     email: string;
     firstName: string;
@@ -7,6 +7,3 @@ interface UserDto {
     fullname?: string;
 }
 
-export {
-    UserDto,
-};

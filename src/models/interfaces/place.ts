@@ -1,9 +1,5 @@
 import {
     BaseWidget,
-    TextWidget,
-    RunVideoWidget,
-    HintWidget,
-    ImageWidget,
     ConnectionDetailDto,
     Tour,
     ImageFile,
